@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">music</string>
+    <string name="ab1_inversions">music</string>
+    <string name="ab2_inversions">music</string>
+    <string name="ab3_inversions">music</string>
+    <string name="ab4_inversions">music</string>
+    <string name="placeholder_search">music</string>
+</resources>
