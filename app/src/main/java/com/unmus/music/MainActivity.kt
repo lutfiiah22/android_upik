@@ -82,6 +82,7 @@ class MainActivity : ComponentActivity() {
                 contentScale = ContentScale.Crop)
             Spacer(modifier = Modifier.width(8.dp))
 
+
             // We keep track if the message is expanded or not in this
             // variable
             var isExpanded by remember { mutableStateOf(false) }
