@@ -144,9 +144,9 @@ data class Body(
 )
 
 fun generateDataBody(): ArrayList<Body>{
-    var data: ArrayList<Body> = ArrayList()
+    val data: ArrayList<Body> = ArrayList()
 
-    var body: Body = Body(R.drawable.prfl, R.string.ab1_inversions)
+    var body = Body(R.drawable.prfl, R.string.ab1_inversions)
     data.add(body)
 
     body = Body(R.drawable.prfl, R.string.ab2_inversions)
